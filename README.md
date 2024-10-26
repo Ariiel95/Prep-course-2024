@@ -1,2 +1,2 @@
-# Prep-course-2024
-repositorio Prepcourse  henry 2024
+Este rpoyecto es una prueba de como crear un repositorio y clonarlo desde el git hub hacia mi computadora
+
